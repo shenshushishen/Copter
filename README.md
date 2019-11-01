@@ -1,3 +1,6 @@
+微信群：
+QQ群：907643725
+
 # Copter Rapid Development Framework
 # 1.ORM Support Supports Lamdba Expressions  and Sql,Supports mysql and sql server
 # 2.Basic Methods
